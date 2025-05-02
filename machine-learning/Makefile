@@ -56,7 +56,7 @@ setup: setup_uv notebook
 help:
 	@echo "Enterprise-AI Development Makefile"
 	@echo "=================================="
-	@echo "init_uv         - Initialize UV package manager"
+	@echo init_uv       - Initialize UV package manager"
 	@echo "setup_uv       - Create virtual env and install deps"
 	@echo "setup-browser  - Setup browser automation tools (not implemented)"
 	@echo "install        - Install package in dev mode"
