@@ -44,14 +44,12 @@ This repository is designed as a comprehensive learning path for artificial inte
 
 ```
 📁 Deep-Learning/
-├── 📁 linear-algebra/            # Fundamental linear algebra implementations
+├── 📁 Mathematics/               # Mathématiques ML/IA - Programme Réaliste et Flexible
 ├── 📁 machine-learning/          # Classical ML algorithms from scratch
 ├── 📁 deep-learning/             # Neural network implementations
-├── 📁 deep-reinforcement-learning/ # RL algorithms and environments
 ├── 📁 python/                    # Advanced Python concepts for ML/DL
 ├── 📄 requirements.txt           # Dependencies for the project
 ├── 📄 .python-version            # Python version specification
-├── 📄 main.py                    # Entry points for examples
 ├── 📄 pyproject.toml             # Project configuration
 └── 📄 Makefile                   # Build automation
 ```
