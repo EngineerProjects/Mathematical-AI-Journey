@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "05d4f2b6af558c00",
+    "type": "split",
+    "children": [
+      {
+        "id": "0441f7d52d236952",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "135e8a680abf42e6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "statistics/ressources/C3_W2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "C3_W2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a215c14943291d04",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff99ec4a17a75487",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03f8f9499f92d18a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bef59dce94985867",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7112943b3d9ae724",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02aa6715a1083f9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e261e4c0c355e4be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e64d429c6088db51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "statistics/ressources/C3_W2.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for C3_W2"
+            }
+          },
+          {
+            "id": "b324fbcc584d2bf5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "statistics/ressources/C3_W2.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from C3_W2"
+            }
+          },
+          {
+            "id": "cb376706c9e6e052",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "596fee07963dd503",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "statistics/ressources/C3_W2.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of C3_W2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "135e8a680abf42e6",
+  "lastOpenFiles": [
+    "1_linear-algebra/practices/C1_W1_Lab_2_solving_linear_systems_2_variables.ipynb",
+    "1_linear-algebra/practices/Unconfirmed 321682.crdownload",
+    "1_linear-algebra/practices/C1_W1_Lab_1_introduction_to_numpy_arrays.ipynb",
+    "1_linear-algebra/practices/Unconfirmed 461454.crdownload",
+    "2_calculus/ressources/C2w1notes.pdf",
+    "2_calculus/ressources/C2w2notes.pdf",
+    "2_calculus/ressources/C2w3notes.pdf",
+    "1_linear-algebra/ressources/C1w1notes.pdf",
+    "1_linear-algebra/ressources/C1w2notes.pdf",
+    "1_linear-algebra/ressources/C1w3notes.pdf",
+    "1_linear-algebra/ressources/C1w4notes.pdf",
+    "readme.md"
+  ]
+}
